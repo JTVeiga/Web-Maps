@@ -19,3 +19,7 @@ Material de Apoio:
 
 Dataframes with Pandas in Python:
 https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+
+GEOCODING with Nominatim:
+https://nominatim.org/
+https://www.youtube.com/watch?v=R3jkosrWsE8
