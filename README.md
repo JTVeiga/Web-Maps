@@ -10,3 +10,6 @@ python (pip, geopy, pandas)
 leaflet
 geojson.io (from mapbox)
 javascript and jquery
+
+For more information about choosing geolocators:
+https://github.com/JTVeiga/geopy
