@@ -13,3 +13,9 @@ javascript and jquery
 
 For more information about choosing geolocators:
 https://github.com/JTVeiga/geopy
+
+
+Material de Apoio:
+
+Dataframes with Pandas in Python:
+https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
